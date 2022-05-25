@@ -1,4 +1,3 @@
-import pip
 import turtle
 import random
 import time
